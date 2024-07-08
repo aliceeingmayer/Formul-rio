@@ -1,0 +1,39 @@
+body{
+
+    background-image: url(imagens/sushi.jfif);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    align-items: center;
+
+}
+
+
+
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin-left: 728px;
+    margin-top: 230px;
+
+}
+
+h1{
+
+text-align: center ;
+
+
+
+}
+
+.botao{
+
+    margin-top: 100px;
+    margin-left: 90px;
+    width: 200px;
+    height: 100px;
+    font-size: 25px;
+    font-weight: 30px;
+}
